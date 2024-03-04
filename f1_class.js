@@ -8,8 +8,8 @@ class Inimigo extends Obj{
     }
 }
 
-class Text{
+class Texto{
     des_text(){
-
+//codigo para desenhar o texto
     }
 }
